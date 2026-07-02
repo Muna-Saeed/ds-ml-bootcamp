@@ -73,6 +73,3 @@ This research specifically addresses the **Evaluation** stage of the Data Scienc
 
 dos Reis, M. A., Künas, C. A., da Silva Araújo, T., Schneiders, J., de Azevedo, P. B., Nakayama, L. F., Rados, D. R. V., Umpierre, R. N., Berwanger, O., Lavinsky, D., Malerbi, F. K., Navaux, P. O. A., & Schaan, B. D. (2024). Advancing healthcare with artificial intelligence: diagnostic accuracy of machine learning algorithm in diagnosis of diabetic retinopathy in the Brazilian population. Diabetology & Metabolic Syndrome, 16. https://doi.org/10.1186/s13098-024-01447-0
 Cited by: 11
-
-dos Reis, M. A., Künas, C. A., da Silva Araújo, T., Schneiders, J., de Azevedo, P. B., Nakayama, L. F., Rados, D. R. V., Umpierre, R. N., Berwanger, O., Lavinsky, D., Malerbi, F. K., Navaux, P. O. A., & Schaan, B. D. (2024). Advancing healthcare with artificial intelligence: diagnostic accuracy of machine learning algorithm in diagnosis of diabetic retinopathy in the Brazilian population. *Diabetology & Metabolic Syndrome*, *16*. [https://doi.org/10.1186/s13098-024-01447-0](https://www.google.com/search?q=https://doi.org/10.1186/s13098-024-01447-0)
-Cited by: 11
